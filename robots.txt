@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /elmah.axd
 Sitemap: http://www.jacquelinewhite.co.uk/sitemap.xml
