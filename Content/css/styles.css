@@ -249,7 +249,7 @@
 	form input#name,
 	form input#email,
 	form input#subject		    	    {width:400px;}
-	form textarea				        {width:500px;height:150px; resize: none;}
+	form textarea				        {width:400px;height:150px; resize: none;}
 	form input.button			        {float:right;}
 	
 /* Contact Page Sidebar */
