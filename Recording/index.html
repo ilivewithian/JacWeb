@@ -294,14 +294,6 @@ Classical Recordings | Jacqueline White
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-	    
-    	$(function(){
-    		$("audio").on("play", function() {
-        		$("audio").not(this).each(function(index, audio) {
-            			audio.pause();
-        		});
-    		});
-	});
     </script>
     <div id="ClickTaleDiv" style="display: none;"></div>
 </body>
