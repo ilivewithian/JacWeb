@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.jacquelinewhite.co.uk/sitemap.xml
+Sitemap: https://www.jacquelinewhite.co.uk/sitemap.xml
