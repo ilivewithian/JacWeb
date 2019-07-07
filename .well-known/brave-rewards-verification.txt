@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jacquelinewhite.co.uk
+Token: c17fd37d4f05444966b93c2ce13071b24ba565c9f2a9378b23d0a99ca8ad7cd8
